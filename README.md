@@ -1,7 +1,7 @@
-<div style="text-align:center;">
-    <h1>iMonitorSDK</h1>
-    <div>
-        <h3>一款为终端、主机提供系统行为监控的开发套件 <br> </h3>
-        <h5>旨在帮助终端安全、管控、审计、零信任、主机安全等行业应用可以快速实现必要功能，而不用关心底层驱动的开发、维护和兼容性问题，让其可以专注于业务开发。 <br> </h5>
-    </div>
-</div>
+## 拒绝内卷、协作共赢
+
+我们致力于为您的企业提供经过稳定测试、检验的多款终端、安全、管理的开发套件，帮助您的公司节约大量研发时间、成本，快速实现产品功能。
+
+## wecooperate、wewin
+
+We are committed to providing your enterprise with a variety of endpoint, security, management development kits that have been stably tested and verified, helping your company save a lot of R&D time, cost, and quickly realize product functions.
